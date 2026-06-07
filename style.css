@@ -1,0 +1,18 @@
+body { font-family: Tahoma, sans-serif; margin: 0; padding: 0; }
+
+.navbar { display: flex; justify-content: space-between; align-items: center; padding: 15px 50px; background-color: #333; }
+.navbar ul { display: flex; list-style: none; gap: 20px; }
+.navbar a { text-decoration: none; color: white; font-weight: bold; }
+
+.hero-section { 
+    height: 400px; 
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: white; 
+    text-shadow: 2px 2px 4px #000;
+}
+
+.content { padding: 50px; text-align: center; }

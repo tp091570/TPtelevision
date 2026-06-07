@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>تلویزیون آنلاین TP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- نوار منو -->
+    <header class="navbar">
+        <div class="logo">
+            <img src="logo.png" alt="TP Television Logo" style="width: 50px;">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="mailto:tptelevizion@gmail.com">ارتباط با ما و تبلیغات</a></li>
+                <li><a href="#about-us">درباره ما</a></li>
+                <li><a href="https://www.instagram.com/tp_television?igsh=MWh2eTBnbGo5MTQ2aw==" target="_blank">پیج اینستاگرام</a></li>
+                <li><a href="https://youtube.com/@tp_television?si=ySeAYUQF15wj1xdg" target="_blank">یوتیوب</a></li>
+                <li><a href="mailto:tptelevizion@gmail.com">پشتیبانی</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- بخش اصلی با تصویر پس‌زمینه -->
+    <section class="hero-section">
+        <div class="hero-text">
+            <h1>تلویزیون آنلاین TP</h1>
+            <p>بخشی از روزمرگی‌های شما</p>
+        </div>
+    </section>
+
+    <!-- درباره ما -->
+    <section id="about-us" class="content">
+        <h2>درباره ما</h2>
+        <p>این تلویزیون به صورت آنلاین فعالیت می‌کند و در آینده در صورت تامین هزینه‌ها به صورت تلویزیونی فعالیت خواهد کرد.</p>
+        <p>این تلویزیون به بنیان‌گذاری جناب <strong>طاها نوروزی</strong> فعالیت می‌کند تا بتواند بخشی از روزمرگی‌های شما باشد.</p>
+    </section>
+
+</body>
+</html>
